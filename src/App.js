@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           learn react
+          I was changed in the features.
         </a>
       </header>
     </div>
