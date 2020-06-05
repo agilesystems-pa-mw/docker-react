@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Useless People - Welcome lel
+          learn react
         </a>
       </header>
     </div>
